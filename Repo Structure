@@ -1,0 +1,6 @@
+crypto-trading-scripts/
+│
+├── README.md
+├── ma_crossover_backtest.py
+├── position_sizing.py
+└── requirements.txt
